@@ -1,0 +1,9 @@
+[submodule "src/ros2_numpy"]
+	path = src/ros2_numpy
+	url = https://github.com/Box-Robotics/ros2_numpy.git
+[submodule "src/ament_cmake"]
+	path = src/ament_cmake
+	url = https://github.com/ament/ament_cmake.git
+[submodule "src/shell_recon_service/shell_recon_service/shell-reconstruction"]
+	path = src/shell_recon_service/shell_recon_service/shell-reconstruction
+	url = https://github.com/SamsungLabs/ShellRecontruction.git

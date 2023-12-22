@@ -1,0 +1,5 @@
+sensor_msgs/Image masked_depth
+float32[9] camera_k  # row-major camera intrinsics
+int32 number_points  # number of sampled points to return for reconstruction
+---
+sensor_msgs/PointCloud2 shell_pcd
